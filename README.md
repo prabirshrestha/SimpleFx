@@ -21,3 +21,5 @@ Chat with us at http://jabbr.net/#/rooms/SimpleFx
 
 * Nancy - http://nancyfx.org/
 
+### Social Authentication
+ * World-Domination.Web.Authentication - https://github.com/PureKrome/World-Domination.Web.Authentication
