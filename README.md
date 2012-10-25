@@ -16,6 +16,7 @@ Chat with us at http://jabbr.net/#/rooms/SimpleFx
 ### Json Libraries
 
 * SimpleJson - https://github.com/facebook-csharp-sdk/simple-json
+* ServiceStack.Text - https://github.com/ServiceStack/ServiceStack.Text
 
 ### Web Frameworks
 
