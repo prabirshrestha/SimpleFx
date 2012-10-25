@@ -8,3 +8,7 @@ Chat with us at http://jabbr.net/#/rooms/SimpleFx
 
 ## Libraries
 
+### Web Frameworks
+
+* Nancy - http://nancyfx.org/
+
