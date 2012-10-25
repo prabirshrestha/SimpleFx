@@ -11,6 +11,7 @@ Chat with us at http://jabbr.net/#/rooms/SimpleFx
 ### Database Libraries
 
 * Dapper - http://code.google.com/p/dapper-dot-net/
+* Simple.Data - https://github.com/markrendle/Simple.Data
 
 ### Json Libraries
 
