@@ -12,3 +12,6 @@ Chat with us at http://jabbr.net/#/rooms/SimpleFx
 
 * Nancy - http://nancyfx.org/
 
+### Json Libraries
+
+* SimpleJson - https://github.com/facebook-csharp-sdk/simple-json
