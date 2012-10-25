@@ -8,12 +8,12 @@ Chat with us at http://jabbr.net/#/rooms/SimpleFx
 
 ## Libraries
 
-### Database Libraries
+### Database
 
 * Dapper - http://code.google.com/p/dapper-dot-net/
 * Simple.Data - https://github.com/markrendle/Simple.Data
 
-### Json Libraries
+### Json
 
 * SimpleJson - https://github.com/facebook-csharp-sdk/simple-json
 * ServiceStack.Text - https://github.com/ServiceStack/ServiceStack.Text
