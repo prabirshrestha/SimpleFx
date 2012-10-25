@@ -12,6 +12,7 @@ Chat with us at http://jabbr.net/#/rooms/SimpleFx
 
 * Dapper - http://code.google.com/p/dapper-dot-net/
 * Simple.Data - https://github.com/markrendle/Simple.Data
+* Massive - https://github.com/robconery/massive
 
 ### Json
 
