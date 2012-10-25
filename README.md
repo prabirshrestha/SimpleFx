@@ -8,10 +8,15 @@ Chat with us at http://jabbr.net/#/rooms/SimpleFx
 
 ## Libraries
 
-### Web Frameworks
+### Database Libraries
 
-* Nancy - http://nancyfx.org/
+* Dapper - http://code.google.com/p/dapper-dot-net/
 
 ### Json Libraries
 
 * SimpleJson - https://github.com/facebook-csharp-sdk/simple-json
+
+### Web Frameworks
+
+* Nancy - http://nancyfx.org/
+
