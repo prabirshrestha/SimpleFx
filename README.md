@@ -27,4 +27,4 @@ Chat with us at http://jabbr.net/#/rooms/SimpleFx
 
 ### File System Abstraction
 
-*.System.IO.Abstractions - https://github.com/tathamoddie/System.IO.Abstractions
+* System.IO.Abstractions - https://github.com/tathamoddie/System.IO.Abstractions
