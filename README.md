@@ -25,7 +25,7 @@ Chat with us at http://jabbr.net/#/rooms/SimpleFx
 
 ### Social Authentication
 
-* World-Domination.Web.Authentication - https://github.com/PureKrome/World-Domination.Web.Authentication
+* WorldDomination.Web.Authentication - https://github.com/PureKrome/WorldDomination.Web.Authentication
 
 ### File System Abstraction
 
